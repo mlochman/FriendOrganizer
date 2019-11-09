@@ -94,5 +94,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FriendOrganizer.DataAccess\FriendOrganizer.DataAccess.csproj">
+      <Project>{35194067-3598-46e8-857f-362a8b1fa689}</Project>
+      <Name>FriendOrganizer.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FriendOrganizer.Model\FriendOrganizer.Model.csproj">
+      <Project>{16a80e7d-4ca1-407d-811c-f0379e071221}</Project>
+      <Name>FriendOrganizer.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
