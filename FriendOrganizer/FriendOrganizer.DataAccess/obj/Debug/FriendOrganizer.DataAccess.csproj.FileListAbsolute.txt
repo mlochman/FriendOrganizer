@@ -7,3 +7,11 @@ C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.Data
 C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.CopyComplete
 C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
 C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitialDatabase.resources
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.cache
+C:\Users\mikel\source\repos\FriendOrganizer\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitialDatabase1.resources
